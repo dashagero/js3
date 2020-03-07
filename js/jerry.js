@@ -1,4 +1,4 @@
-/* function Jerry(){
+ function Jerry(){
     this.coordX = 100;
     this.coordY = 500;
     this.width = 25;
@@ -18,4 +18,4 @@
             edit += this.speedX;
         }
     }
-} */
+} 
